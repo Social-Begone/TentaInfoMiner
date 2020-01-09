@@ -19,6 +19,6 @@ Auto resolves to: https://www.kth.se/student/kurs/schema/tidpunkter-for-tentamen
 ### Div class "paragraphs"
 - H3: Semester
 - P: Info zones
-  - <strong> </strong>: Period
-  - After <strong>: Date
-  - After <br>: Contains Time
+  - `<strong> </strong>`: Period
+  - After `<strong>`: Date
+  - After `<br>`: Contains Time

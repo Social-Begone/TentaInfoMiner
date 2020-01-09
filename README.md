@@ -5,6 +5,7 @@ yes
 # Marks
 ## URL
 SV: https://www.kth.se/student/kurs/schema/tidpunkter-for-tentamen-omtentamen
+
 Auto resolves to: https://www.kth.se/student/kurs/schema/tidpunkter-for-tentamen-omtentamen-[data-cid]
 
 ## Elements
